@@ -10,7 +10,7 @@ import { ProductService } from '../shared/product.service';
 })
 export class ProductListComponent implements OnInit {
 
-  products:any
+  products: any
 
   // constructor(private route: ActivatedRoute) { }
 
